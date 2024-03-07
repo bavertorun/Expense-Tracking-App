@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Manda Yoğurtu",
+    "price": 31,
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/manda-yogurdu-69121abe-b318-4494-a62c-42e2c878392c.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Saray",
+    "price": 9999999999,
+    "image": "https://cdn.veryansintv.com/2023/07/08/1574323238212-kulliye.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Rolex",
+    "price": 30000,
+    "image": "https://neal.fun/spend/images/rolex.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Mona Lisa",
+    "price": 780000,
+    "image": "https://neal.fun/spend/images/mona-lisa.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Özel Uçak",
+    "price": 9100000,
+    "image": "https://inancorganizasyon.com/wp-content/uploads/2020/12/Ozel-ucak-kiralama-1.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Apple VR Gözlük",
+    "price": 999,
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/IMG_4028-800x600.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "TOGG",
+    "price": 49999,
+    "image": "https://i.dunya.com/storage/files/images/2023/07/22/togg-arac-Wuca_cover.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Cybertruck",
+    "price": 99999,
+    "image": "https://www.topgear.com/sites/default/files/2022/09/0x0-Cybertruck_01.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Savaş Tankı",
+    "price": 8000000,
+    "image": "https://neal.fun/spend/images/m1-abrams.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Yat",
+    "price": 750000,
+    "image": "https://neal.fun/spend/images/yacht.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Iphone 15",
+    "price": 1000,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-naturaltitanium?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692846363993"
+  },
+  {
+    "id": 12,
+    "title": "MacBook Air",
+    "price": 990,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/114751-1-1_large.jpg"
+  }
+]
